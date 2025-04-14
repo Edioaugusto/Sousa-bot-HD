@@ -7,15 +7,15 @@ exports.PREFIX = "/";
 exports.BOT_EMOJI = "🤖";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "Takeshi Bot";
+exports.BOT_NAME = "SCOTT BOT HD";
 
 // Número do bot. Coloque o número do bot
 // (apenas números, exatamente como está no WhatsApp).
-exports.BOT_NUMBER = "559999999999";
+exports.BOT_NUMBER = "258833152230";
 
 // Número do dono do bot. Coloque o número do dono do bot
 // (apenas números, exatamente como está no WhatsApp).
-exports.OWNER_NUMBER = "559999999999";
+exports.OWNER_NUMBER = "25887698622";
 
 // Diretório dos comandos
 exports.COMMANDS_DIR = path.join(__dirname, "commands");
@@ -33,7 +33,7 @@ exports.TIMEOUT_IN_MILLISECONDS_BY_EVENT = 700;
 exports.SPIDER_API_BASE_URL = "https://api.spiderx.com.br/api";
 
 // Obtenha seu token, criando uma conta em: https://api.spiderx.com.br.
-exports.SPIDER_API_TOKEN = "seu_token_aqui";
+exports.SPIDER_API_TOKEN = "XCrPAfRNz9QF6V4zbbA9";
 
 // Caso queira responder apenas um grupo específico, coloque o ID dele aqui (ex: 120363023799506419@g.us). Apenas para testes internos!
 exports.ONLY_GROUP_ID = "";
